@@ -1,0 +1,17 @@
+# Git aliases
+alias ga="git add ."
+alias gc="git commit -m "
+alias gs="git status"
+
+alias desk="cd ~/Desktop"
+alias code="cd ~/Code"
+
+# Projects
+alias realpage="~/bin/project-realpage.sh"
+alias realpage="~/bin/project-kigo.sh"
+
+# Install Wordpress
+alias wpinstall="~/bin/wpinstall.sh"
+
+# Install Project Starter
+alias projectstarter="~/bin/project-starter.sh"
