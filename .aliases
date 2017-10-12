@@ -8,7 +8,7 @@ alias code="cd ~/Code"
 
 # Projects
 alias realpage="~/bin/project-realpage.sh"
-alias realpage="~/bin/project-kigo.sh"
+alias kigo="~/bin/project-kigo.sh"
 
 # Install Wordpress
 alias wpinstall="~/bin/wpinstall.sh"
