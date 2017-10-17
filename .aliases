@@ -4,7 +4,7 @@ alias gc="git commit -m "
 alias gs="git status"
 
 alias desk="cd ~/Desktop"
-alias code="cd ~/Code"
+alias code="cd ~/code"
 
 # Projects
 alias realpage="~/bin/project-realpage.sh"
