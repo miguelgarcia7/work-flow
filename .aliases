@@ -5,10 +5,20 @@ alias gs="git status"
 
 alias desk="cd ~/Desktop"
 alias code="cd ~/code"
+alias workflow="cd ~/code/Work-Flow"
 
 # Projects
 alias realpage="~/bin/project-realpage.sh"
+alias realpagedir="cd ~/code/realpage.com"
+
 alias kigo="~/bin/project-kigo.sh"
+alias kigodir="cd ~/code/kigo.net"
+
+alias propertyware="~/bin/project-propertyware.sh"
+alias propertywaredir="cd ~/code/propertyware.com"
+
+alias residentdirect="~/bin/project-residentdirect.sh"
+alias residentdirectdir="cd ~/code/residentdirect.com"
 
 # Install Wordpress
 alias wpinstall="~/bin/wpinstall.sh"
