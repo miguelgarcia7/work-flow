@@ -2,23 +2,28 @@
 alias ga="git add ."
 alias gc="git commit -m "
 alias gs="git status"
+#PHP Artsian
+alias pa="php artisan "
 
 alias desk="cd ~/Desktop"
 alias code="cd ~/code"
 alias workflow="cd ~/code/Work-Flow"
 
 # Projects
-alias realpage="~/bin/project-realpage.sh"
-alias realpagedir="cd ~/code/realpage.com"
+alias rp="~/bin/project-realpage.sh"
+alias rpdir="cd ~/code/realpage.com"
 
 alias kigo="~/bin/project-kigo.sh"
 alias kigodir="cd ~/code/kigo.net"
 
-alias propertyware="~/bin/project-propertyware.sh"
-alias propertywaredir="cd ~/code/propertyware.com"
+alias pw="~/bin/project-propertyware.sh"
+alias pwdir="cd ~/code/propertyware.com"
 
-alias residentdirect="~/bin/project-residentdirect.sh"
-alias residentdirectdir="cd ~/code/residentdirect.com"
+alias rd="~/bin/project-residentdirect.sh"
+alias rddir="cd ~/code/residentdirect.com"
+
+alias cmsmedia="~/bin/project-cmsmedia.sh"
+alias cmsmediadir="cd ~/code/RealPageMediaServices"
 
 # Install Wordpress
 alias wpinstall="~/bin/wpinstall.sh"
