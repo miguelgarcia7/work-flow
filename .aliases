@@ -25,8 +25,8 @@ alias pwdir="cd ~/code/propertyware.com"
 alias rd="~/bin/project-residentdirect.sh"
 alias rddir="cd ~/code/residentdirect.com"
 
-alias cmsmedia="~/bin/project-cmsmedia.sh"
-alias cmsmediadir="cd ~/code/RealPageMediaServices"
+alias rpcms="~/bin/project-cmsmedia.sh"
+alias rpcms="cd ~/code/RealPageMediaServices"
 
 # Install Wordpress
 alias wpinstall="~/bin/wpinstall.sh"
