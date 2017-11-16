@@ -1,13 +1,16 @@
+#Quick Aliases
+alias desk="cd ~/Desktop"
+alias code="cd ~/code"
+alias workflow="cd ~/code/Work-Flow"
+alias sublimesnippets="cd ~/Library/Application\ Support/Sublime\ Text\ 3/Packages/User/snippets"
+
 # Git aliases
 alias ga="git add ."
 alias gc="git commit -m "
 alias gs="git status"
+
 #PHP Artsian
 alias pa="php artisan "
-
-alias desk="cd ~/Desktop"
-alias code="cd ~/code"
-alias workflow="cd ~/code/Work-Flow"
 
 # Projects
 alias rp="~/bin/project-realpage.sh"
