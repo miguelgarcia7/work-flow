@@ -9,8 +9,10 @@ alias ga="git add ."
 alias gc="git commit -m "
 alias gs="git status"
 
-#PHP Artsian
+#PHP Laravel
+alias art="php artisan "
 alias pa="php artisan "
+alias migrate="php artisan migrate"
 
 # Projects
 alias rp="~/bin/project-realpage.sh"
@@ -26,7 +28,7 @@ alias rd="~/bin/project-residentdirect.sh"
 alias rddir="cd ~/code/residentdirect.com"
 
 alias rpcms="~/bin/project-cmsmedia.sh"
-alias rpcms="cd ~/code/RealPageMediaServices"
+alias rpcmsdir="cd ~/code/RealPageMediaServices"
 
 # Install Wordpress
 alias wpinstall="~/bin/wpinstall.sh"
