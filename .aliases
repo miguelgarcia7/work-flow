@@ -1,10 +1,10 @@
-#Quick Aliases
+# ====== Quick Aliases ======
 alias desk="cd ~/Desktop"
 alias code="cd ~/code"
 alias workflow="cd ~/code/Work-Flow"
 alias sublimesnippets="cd ~/Library/Application\ Support/Sublime\ Text\ 3/Packages/User/snippets"
 
-# Git aliases
+# ====== Git aliases ======
 alias ga="git add ."
 alias gc="git commit -m "
 alias gs="git status"
@@ -14,21 +14,30 @@ alias art="php artisan "
 alias pa="php artisan "
 alias migrate="php artisan migrate"
 
-# Projects
+# ====== Projects ======
+#Real Page
 alias rp="~/bin/project-realpage.sh"
 alias rpdir="cd ~/code/realpage.com"
+alias rpmin="cd ~/code/realpage.com/resources/themes/realpage"
 
+#Kigo
 alias kigo="~/bin/project-kigo.sh"
 alias kigodir="cd ~/code/kigo.net"
+alias kigomin="cd ~/code/kigo.net/resources/themes/kigo"
 
+#Propertyware
 alias pw="~/bin/project-propertyware.sh"
 alias pwdir="cd ~/code/propertyware.com"
+alias pwmin="cd ~/code/propertyware.com/resources/themes/propertyware"
 
+#ResidentDirect
 alias rd="~/bin/project-residentdirect.sh"
 alias rddir="cd ~/code/residentdirect.com"
 
+#CMS Media
 alias rpcms="~/bin/project-cmsmedia.sh"
 alias rpcmsdir="cd ~/code/RealPageMediaServices"
+alias rpcmsmin="cd ~/code/RealPageMediaServices"
 
 # Install Wordpress
 alias wpinstall="~/bin/wpinstall.sh"
