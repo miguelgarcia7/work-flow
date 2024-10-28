@@ -2,17 +2,25 @@
 alias desk="cd ~/Desktop"
 alias code="cd ~/code"
 alias workflow="cd ~/code/Work-Flow"
+
+# ====== IDEs aliases ======
+alias phpstorm="open -a 'phpstorm.app'"
 alias sublimesnippets="cd ~/Library/Application\ Support/Sublime\ Text\ 3/Packages/User/snippets"
 
 # ====== Git aliases ======
-alias ga="git add ."
+alias ga="git add "
 alias gc="git commit -m "
 alias gs="git status"
 
-#PHP Laravel
-alias art="php artisan "
+# ====== PHP Laravel ======
 alias pa="php artisan "
 alias migrate="php artisan migrate"
+alias routes="php artisan route:list"
+alias clear:all="php artisan optimize:clear"
+
+function _table() {
+   php artisan make:migration create_$1_table
+}
 
 # ====== Projects ======
 #Real Page
